@@ -1,0 +1,200 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "computercraft:treasure_disk",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:dyed_color": {
+                                    "rgb": 15905331,
+                                    "show_in_tooltip": false
+                                },
+                                "computercraft:treasure_disk": {
+                                    "name": "gameoflife by vilsol",
+                                    "path": "vilsol/gameoflife"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "computercraft:treasure_disk",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:dyed_color": {
+                                    "rgb": 3368652,
+                                    "show_in_tooltip": false
+                                },
+                                "computercraft:treasure_disk": {
+                                    "name": "maze3d by jtk",
+                                    "path": "jtk/maze3d"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "computercraft:treasure_disk",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:dyed_color": {
+                                    "rgb": 14605932,
+                                    "show_in_tooltip": false
+                                },
+                                "computercraft:treasure_disk": {
+                                    "name": "nsh by lyqyd",
+                                    "path": "lyqyd/nsh"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "computercraft:treasure_disk",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:dyed_color": {
+                                    "rgb": 3368652,
+                                    "show_in_tooltip": false
+                                },
+                                "computercraft:treasure_disk": {
+                                    "name": "npaintpro by nitrogenfingers",
+                                    "path": "nitrogenfingers/npaintpro"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "computercraft:treasure_disk",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:dyed_color": {
+                                    "rgb": 15040472,
+                                    "show_in_tooltip": false
+                                },
+                                "computercraft:treasure_disk": {
+                                    "name": "goldrunner by nitrogenfingers",
+                                    "path": "nitrogenfingers/goldrunner"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "computercraft:treasure_disk",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:dyed_color": {
+                                    "rgb": 15790320,
+                                    "show_in_tooltip": false
+                                },
+                                "computercraft:treasure_disk": {
+                                    "name": "protector by fredthead",
+                                    "path": "fredthead/protector"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "computercraft:treasure_disk",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:dyed_color": {
+                                    "rgb": 10066329,
+                                    "show_in_tooltip": false
+                                },
+                                "computercraft:treasure_disk": {
+                                    "name": "luaide by gravity_score",
+                                    "path": "gravity_score/luaide"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "computercraft:treasure_disk",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:dyed_color": {
+                                    "rgb": 1118481,
+                                    "show_in_tooltip": false
+                                },
+                                "computercraft:treasure_disk": {
+                                    "name": "tictactoe by theoriginalbit",
+                                    "path": "theoriginalbit/tictactoe"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "computercraft:treasure_disk",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:dyed_color": {
+                                    "rgb": 11691749,
+                                    "show_in_tooltip": false
+                                },
+                                "computercraft:treasure_disk": {
+                                    "name": "battleship by gopher_atl",
+                                    "path": "gopher_atl/battleship"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "computercraft:treasure_disk",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:dyed_color": {
+                                    "rgb": 14605932,
+                                    "show_in_tooltip": false
+                                },
+                                "computercraft:treasure_disk": {
+                                    "name": "alongtimeago by dan200",
+                                    "path": "dan200/alongtimeago"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
